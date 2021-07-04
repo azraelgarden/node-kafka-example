@@ -50,7 +50,7 @@ $ npm start
 ```bash
 
 # Entre no microservice
-$ cd microservice
+$ cd consumer
 
 # Instale as dependências
 $ npm install
